@@ -18,7 +18,8 @@ Vor dem Ausführen des Skriptes stelle sicher dass `python3` installiert ist und
 > Um eine Virtuelle Umgebung zu erstellen gib in der Konsole ein:
 > ```
 > python3 -m venv /path/to/new/virtual/environment
-> ``` (auf Windows ist `python3` meist nur als `python` installiert)
+> ```
+> (auf Windows ist `python3` meist nur als `python` installiert)
 >
 > Öffne die virtuelle Umgebung mit `source /venv path/bin/activate`
 >
