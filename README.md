@@ -16,11 +16,13 @@ Dieses Python-Tool gibt der Finanzer:in die Möglichkeit Kassenstände aus GNU-C
 Vor dem Ausführen des Skriptes stelle sicher dass `python3` installiert ist und du dich im entsprechenden Virtual Environment befindest.
 
 > Um eine Virtuelle Umgebung zu erstellen gib in der Konsole ein:
-> ```python3 -m venv /path/to/new/virtual/environment``` (auf Windows ist `python3` meist nur als `python` installiert)
+> ```
+> python3 -m venv /path/to/new/virtual/environment
+> ``` (auf Windows ist `python3` meist nur als `python` installiert)
 >
 > Öffne die virtuelle Umgebung mit `source /venv path/bin/activate`
 >
-> [Dokumentation](https://docs.python.org/3/library/venv.htmlhttps:/)
+> [Dokumentation](https://docs.python.org/3/library/venv.html)
 
 Dort müssen die Pakete `pandas`und `matplotlib`installiert sein.
 
